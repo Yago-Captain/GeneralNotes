@@ -1,1 +1,1 @@
-# MyGeneralNotes-master
+# MyGeneralNotes
