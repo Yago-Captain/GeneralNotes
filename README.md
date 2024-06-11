@@ -20,16 +20,20 @@ Para clonar o repositório e começar a trabalhar com o projeto, siga estas etap
    git clone https://github.com/Yago-Captain/MyGeneralNotes.git
    ```
 
-4. Certifique-se de ter o [Visual Studio 2022](https://visualstudio.microsoft.com/) instalado para a edição do código-fonte. Você pode baixá-lo [aqui](https://visualstudio.microsoft.com/downloads/).
+4. Certifique-se de ter o [Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/) instalado para a edição do código-fonte. Você pode baixá-lo [aqui](https://visualstudio.microsoft.com/pt-br/downloads/).
 
 5. Instale o MySQL 8 como banco de dados. Você pode baixar e seguir as instruções de instalação para o MySQL [aqui](https://dev.mysql.com/downloads/mysql/).
 
-Com essas etapas, você estará pronto para começar a trabalhar no projeto utilizando o Visual Studio 2022 e as ferramentas necessárias já instaladas.
+Com essas etapas, você estará pronto para começar a trabalhar no projeto utilizando o Visual Studio 2022. Não se preucupe com as ferramentas e pacotes nescessários, pois o Visual Studio 2022 instala todas elas quando o projeto é clonado.
 
-Além disso, se preferir usar o Visual Studio Code para editar o código, você pode baixá-lo [aqui](https://code.visualstudio.com/).
 
 ## Wiki
 
 Para mais informações sobre o projeto, consulte nossa [Wiki](https://github.com/Yago-Captain/GeneralNotes/wiki).
 
 --- 
+Você pode baixar o Visual Studio 2022 Community Edition gratuitamente no site oficial da Microsoft. Aqui está o link para o download:
+
+[Download do Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/pt-br/downloads/)
+
+Basta clicar no link e seguir as instruções para baixar e instalar o Visual Studio 2022 Community Edition no seu sistema. Se precisar de mais alguma coisa, estou à disposição para ajudar!
