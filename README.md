@@ -30,10 +30,3 @@ Com essas etapas, você estará pronto para começar a trabalhar no projeto util
 ## Wiki
 
 Para mais informações sobre o projeto, consulte nossa [Wiki](https://github.com/Yago-Captain/GeneralNotes/wiki).
-
---- 
-Você pode baixar o Visual Studio 2022 Community Edition gratuitamente no site oficial da Microsoft. Aqui está o link para o download:
-
-[Download do Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/pt-br/downloads/)
-
-Basta clicar no link e seguir as instruções para baixar e instalar o Visual Studio 2022 Community Edition no seu sistema. Se precisar de mais alguma coisa, estou à disposição para ajudar!
